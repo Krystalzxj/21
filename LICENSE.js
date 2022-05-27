@@ -31,11 +31,11 @@ const FILM_ID = 81215567
 const AREA_TEST_FILM_ID = 80018499
 const DEFAULT_OPTIONS = {
   title: '',
-  fullContent: '已解锁奈飞 ➟ #REGION_NAME# #REGION_CODE#',
-  fullIcon: 'play.circle',
-  fullIconColor: '#00BC12',
+  fullContent: '已解锁奈飞 ➺ #REGION_NAME# #REGION_FLAG# #REGION_CODE#',
+  fullIcon: 'play.tv.fill',
+  fullIconColor: '#eebbcb',
   fullStyle: 'good',
-  onlyOriginalContent: '解锁自制剧 ➟ #REGION_NAME# #REGION_CODE#',
+  onlyOriginalContent: '解锁自制剧 ➺ #REGION_NAME# #REGION_FLAG# #REGION_CODE#',
   onlyOriginalIcon: 'pause.circle',
   onlyOriginalIconColor: '#FFB61E',
   onlyOriginalStyle: 'info',
