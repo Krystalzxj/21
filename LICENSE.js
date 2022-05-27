@@ -30,10 +30,10 @@ const BASE_URL = 'https://www.netflix.com/title/'
 const FILM_ID = 81215567
 const AREA_TEST_FILM_ID = 80018499
 const DEFAULT_OPTIONS = {
-  title: '',
+  title: 𝑵𝒆𝒕𝒇𝒍𝒊𝒙 '',
   fullContent: '已解锁奈飞 ➟ #REGION_NAME# #REGION_CODE#',
-  fullIcon: 'play.circle',
-  fullIconColor: '#00BC12',
+  fullIcon: 'pc',
+  fullIconColor: '#ed5736',
   fullStyle: 'good',
   onlyOriginalContent: '解锁自制剧 ➟ #REGION_NAME# #REGION_CODE#',
   onlyOriginalIcon: 'pause.circle',
